@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.2 (Python 3.13.2 on win32)" generated="2026-07-17T17:21:33.884269" rpa="false" schemaversion="5">
+<suite id="s1" name="Log Test" source="C:\Users\hp\PycharmProjects\S.Auto\test_suite\log_test.robot">
+<test id="s1-t1" name="Change Device Hostname On NCD2K" line="6">
+<kw name="Login Pc Application" owner="kalyani">
+<msg time="2026-07-17T17:21:34.649378" level="INFO">====== WebDriver manager ======</msg>
+<msg time="2026-07-17T17:21:36.038205" level="INFO">Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\150.0.7871.124\chromedriver-win64/chromedriver.exe] found in cache by browser version</msg>
+<doc>Wrapper keyword for Robot test: Login pc Application</doc>
+<status status="PASS" start="2026-07-17T17:21:34.639699" elapsed="63.140145"/>
+</kw>
+<status status="PASS" start="2026-07-17T17:21:34.637482" elapsed="63.143576"/>
+</test>
+<status status="PASS" start="2026-07-17T17:21:33.888222" elapsed="63.894987"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Log Test" id="s1" pass="1" fail="0" skip="0">Log Test</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
